@@ -1,0 +1,7 @@
+{
+	"codeLens.enable": true,
+  "metals.showInferredType": true,
+ "metals.showImplicitArguments": true,
+  "metals.showImplicitConversionsAndClasses": true
+
+}
